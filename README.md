@@ -2,13 +2,19 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, install dependencies by using command:
+First take pull from the branch using this command:
+
+```bash
+git clone https://github.com/Nomanahmeda789/todo-test-task.git
+```
+
+Then go to the root\default branch and install dependencies by using command:
 
 ```bash
 npm install
 ```
 
-Second, run the development server:
+Now run the development server:
 
 ```bash
 npm run dev
